@@ -1,7 +1,5 @@
-hello grunt
-
-Installation
+#Installation
 $ npm install
 
-Usage
+#Usage
 $ grunt
